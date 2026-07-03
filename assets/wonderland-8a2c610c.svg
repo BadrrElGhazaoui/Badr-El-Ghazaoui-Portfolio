@@ -1,0 +1,44 @@
+<svg width="360" height="140" viewBox="0 0 360 140" xmlns="http://www.w3.org/2000/svg">
+  <!-- Stylized "P" mark -->
+  <g>
+    <!-- back stroke (dark) -->
+    <path d="M28 18
+             L28 118
+             L46 118
+             L46 78
+             L58 78
+             C 86 78, 100 62, 100 44
+             C 100 26, 86 12, 58 12
+             L34 12
+             Z
+             M46 30
+             L56 30
+             C 72 30, 80 36, 80 45
+             C 80 54, 72 60, 56 60
+             L46 60
+             Z"
+          fill="#3B3B3B"/>
+    <!-- front stroke (red), offset to mimic the two-tone slanted look -->
+    <path d="M14 8
+             L14 108
+             L32 108
+             L32 68
+             L44 68
+             C 72 68, 86 52, 86 34
+             C 86 16, 72 2, 44 2
+             L20 2
+             Z
+             M32 20
+             L42 20
+             C 58 20, 66 26, 66 35
+             C 66 44, 58 50, 42 50
+             L32 50
+             Z"
+          fill="#C1392B"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="112" y="52" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" fill="#C1392B">Petro</text>
+  <text x="112" y="88" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" fill="#3B3B3B">Pièces</text>
+  <text x="248" y="52" font-family="Arial, sans-serif" font-size="13" letter-spacing="1" fill="#3B3B3B">SARL</text>
+</svg>
