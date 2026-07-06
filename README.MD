@@ -22,8 +22,8 @@ Personal portfolio website built with React, Three.js, and Framer Motion.
 
 ### 1. Fork & Clone
 \`\`\`bash
-git clone https://github.com/YOUR_USERNAME/BadrrElGhazaoui.github.io.git
-cd BadrrElGhazaoui.github.io
+git clone https://github.com/YOUR_USERNAME/YOUR_USERNAME.github.io.git
+cd YOUR_USERNAME.github.io
 \`\`\`
 
 ### 2. Install Dependencies
