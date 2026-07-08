@@ -2,7 +2,7 @@
 
 Personal portfolio website built with React, Three.js, and Framer Motion.
 
-🔗 **Live:** [badrrelghazaoui.github.io](https://badrrelghazaoui.github.io/)  
+🔗 **Live:** [badrelghazaoui.com](https://badrelghazaoui.com/)  
 ✍️ **Blog:** [moondiscoveries.com](https://moondiscoveries.com/)
 
 ---
