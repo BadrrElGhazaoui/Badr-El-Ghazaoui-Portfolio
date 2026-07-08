@@ -74,10 +74,8 @@ src/constants/index.js
 
 ## 📬 Contact
 
-- 📧 [Badr@moondiscoveries.com](mailto:Badr@moondiscoveries.com)
+- 📧 [Badr@BadrElGhazaoui.com](mailto:Badr@badrelghazaoui.com)
 - 💼 [linkedin.com/in/badr-el-ghazaoui](https://linkedin.com/in/badr-el-ghazaoui)
 - 🐙 [github.com/BadrrElGhazaoui](https://github.com/BadrrElGhazaoui)
 
 ---
-
-> Forked from [sunnypatell/react-threejs-portfolio](https://github.com/sunnypatell/react-threejs-portfolio) and customized.
